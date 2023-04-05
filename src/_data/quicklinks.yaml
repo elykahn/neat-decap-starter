@@ -1,14 +1,13 @@
----
 links:
-  - title: Netlify CMS
-    url: "https://www.netlifycms.org/"
-    desc: Open source content management for your Git workflow
-  - title: Eleventy
-    url: "https://www.11ty.dev/"
-    desc: Eleventy is a simpler static site generator.
-  - title: Alpine.js
-    url: "https://github.com/alpinejs/alpine"
+  - title: Naughtely
+    url: https://www.naught.ely.io
+    desc: "NSFW Erotica for Women from One insatiably naughty guy's perspective. "
+  - title: elyventy
+    url: https://www.ely.io/eventy
+    desc: Eleventy is a simpler static site generator. Elyventy's different.
+  - title: Pour One Out
+    url: https://github.com/pouroneout/
     desc: A minimal framework for composing JavaScript behavior in your markup.
   - title: Tailwind CSS
-    url: "https://tailwindcss.com/"
+    url: https://tailwindcss.com/
     desc: A utility-first CSS framework for rapidly building custom designs.
